@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "class-variance-authority": "^0.7.1",
+    "lucide-react": "^0.484.0",
     "next": "15.2.4",
     "postcss": "^8.5.3",
     "radix-ui": "^1.1.3",
